@@ -1,0 +1,6 @@
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Server\bin\Debug\Server.exe.config
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Server\bin\Debug\Server.exe
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Server\bin\Debug\Server.pdb
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Server\obj\Debug\Server.exe
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Server\obj\Debug\Server.pdb

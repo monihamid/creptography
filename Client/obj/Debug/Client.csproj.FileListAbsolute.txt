@@ -1,0 +1,14 @@
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Client\bin\Debug\Client.exe.config
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Client\bin\Debug\Client.exe
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Client\bin\Debug\Client.pdb
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Client\obj\Debug\MainWindow.g.cs
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Client\obj\Debug\App.g.cs
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Client\obj\Debug\MainWindow.baml
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Client\obj\Debug\Client.g.resources
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Client\obj\Debug\Client.exe
+C:\Users\computer1\Documents\SET\Courses\semester4\AdComputerSecutiry\Creptography\WMP-A04-DongQian-Monira_Sultana\Client\obj\Debug\Client.pdb
